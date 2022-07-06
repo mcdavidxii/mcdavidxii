@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mcdavidxii
-- 👀 I’m interested in Web development and Artficial Intelligence 
+- 👀 I’m interested in Software development and Artficial Intelligence 
 - 🌱 I’m currently learning both, trying to balance both the AI and web development.
 - 💞️ I’m looking to collaborate on Javascript Projects and full stack web development
 - 📫 How to reach me realmcdavid1@gmail.com

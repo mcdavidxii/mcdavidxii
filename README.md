@@ -12,20 +12,19 @@ While my main focus is on full-stack development, I also explore AI as a side in
 - Full-Stack Web Development (Next.js, React, TypeScript, JavaScript)
 - Mobile Development (React Native)
 - Desktop & Enterprise Software (C#, .NET, VB.NET, SQL Server, SQLite)
--IT Support & Mentoring
+- IT Support & Mentoring
 
 🌱 Currently Working On
 
-Scaling enterprise applications using .NET & modern web frameworks
-Enhancing mobile experiences with React Native
-Exploring AI & automation in my free time
+- Scaling enterprise applications using .NET & modern web frameworks
+- Enhancing mobile experiences with React Native
+- Exploring AI & automation in my free time
 
 🤝 Looking to Collaborate On
 
-Web & mobile development projects
-
-Full-stack JavaScript/TypeScript applications
-Open-source initiatives in software development
+- Web & mobile development projects
+- Full-stack JavaScript/TypeScript applications
+- Open-source initiatives in software development
 
 📫 How to Reach Me
 📩 Email: realmcdavid1@gmail.com

@@ -1,4 +1,4 @@
-👋 Hi, I’m McDavid Ranganai (@mcdavidxii)
+👋 Hi, I’m McDavid
 🚀 Full-Stack Developer | Mobile & Desktop App Developer | Mentor
 
 🔍 About Me
@@ -28,6 +28,5 @@ While my main focus is on full-stack development, I also explore AI as a side in
 
 📫 How to Reach Me
 📩 Email: realmcdavid1@gmail.com
-🔗 LinkedIn: linkedin.com/in/mcdavid-ranganai-414670187
 
 Let’s build something amazing together! 🚀

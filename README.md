@@ -1,11 +1,30 @@
-- 👋 Hi, I’m @mcdavidxii
-- 👀 I’m interested in Software development and Artficial Intelligence 
-- 🌱 I’m currently learning both, trying to balance both the AI and web development.
-- 💞️ I’m looking to collaborate on Javascript Projects and full stack web development
-- 📫 How to reach me realmcdavid1@gmail.com
-- Linkedin www.linkedin.com/in/mcdavid-ranganai-414670187
+👋 Hi, I’m McDavid Ranganai (@mcdavidxii)
+🚀 Full-Stack Developer | Mobile & Desktop App Developer | Mentor
 
-<!---
-mcdavidxii/mcdavidxii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔍 About Me
+I’m a passionate software developer specializing in web, mobile, and desktop applications.
+I enjoy building scalable, high-performance solutions using modern technologies. 
+While my main focus is on full-stack development, I also explore AI as a side interest.
+
+💡 What I Do
+- Full-Stack Web Development (Next.js, React, TypeScript, JavaScript)
+- Mobile Development (React Native)
+- Desktop & Enterprise Software (C#, .NET, VB.NET, SQL Server, SQLite)
+-IT Support & Mentoring
+
+🌱 Currently Working On
+Scaling enterprise applications using .NET & modern web frameworks
+Enhancing mobile experiences with React Native
+Exploring AI & automation in my free time
+
+🤝 Looking to Collaborate On
+Web & mobile development projects
+
+Full-stack JavaScript/TypeScript applications
+Open-source initiatives in software development
+
+📫 How to Reach Me
+📩 Email: realmcdavid1@gmail.com
+🔗 LinkedIn: linkedin.com/in/mcdavid-ranganai-414670187
+
+Let’s build something amazing together! 🚀

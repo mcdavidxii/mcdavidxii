@@ -1,6 +1,6 @@
 👋 Hi, I’m McDavid
 
-🚀 Full-Stack Developer | Mobile & Desktop App Developer | Mentor
+🚀 Full-Stack Developer | Web, Mobile & Desktop App Developer | Mentor
 
 🔍 About Me
 
@@ -12,7 +12,7 @@ While my main focus is on full-stack development, I also explore AI as a side in
 
 - Full-Stack Web Development (Next.js, React, TypeScript, JavaScript)
 - Mobile Development (React Native)
-- Desktop & Enterprise Software (C#, .NET, VB.NET, SQL Server, SQLite)
+- Desktop & Enterprise Software (C#, .NET, VB.NET, SQL Server, SQLite,Postgres)
 - IT Support & Mentoring
 
 🌱 Currently Working On

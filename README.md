@@ -1,33 +1,30 @@
 👋 Hi, I’m McDavid
 
-🚀 Full-Stack Developer | Web, Mobile & Desktop App Developer | Mentor
+🚀 Full-Stack Developer | Web, Mobile & Desktop Apps | Systems Architect | Mentor
 
 🔍 About Me
 
-I’m a passionate software developer specializing in web, mobile, and desktop applications.
-I enjoy building scalable, high-performance solutions using modern technologies. 
-While my main focus is on full-stack development, I also explore AI as a side interest.
+I’m a passionate and solutions-driven software developer with experience building *web, mobile, and desktop applications* across diverse industries. I specialize in designing *scalable, high-performance systems* using modern technologies and clean architecture principles.
+
+Beyond full-stack development, I’m actively exploring *AI integration, automation, and digital transformation*, especially in the education and enterprise space.
 
 💡 What I Do
 
-- Full-Stack Web Development (Next.js, React, TypeScript, JavaScript)
-- Mobile Development (React Native)
-- Desktop & Enterprise Software (C#, .NET, VB.NET, SQL Server, SQLite,Postgres)
-- IT Support & Mentoring
+- 🌐 Full-Stack Web Development (Next.js, React, TypeScript, JavaScript, Node.js, ASP.NET Core)
+- 📱 Mobile Development (React Native)
+- 💻 Desktop & Enterprise Software (C#, .NET, WinForms, VB.NET)
+- 🗄️ Database Design & Optimization (SQL Server, PostgreSQL, SQLite)
+- 🧰 DevOps & Deployment (Docker, Linux servers)
+- 🧑🏽‍🏫 IT Support & Mentoring
 
-🌱 Currently Working On
+🤝 Open to Collaborate On
 
-- Scaling enterprise applications using .NET & modern web frameworks
-- Enhancing mobile experiences with React Native
-- Exploring AI & automation in my free time
+- Custom web/mobile/desktop systems for startups or SMEs
+- Multi-tenant, cloud-native app architectures
+- EdTech, ERP, or POS solutions
+- Open-source or community-impact tech projects
 
-🤝 Looking to Collaborate On
+📫 Let’s Connect
 
-- Web & mobile development projects
-- Full-stack JavaScript/TypeScript applications
-- Open-source initiatives in software development
-
-📫 How to Reach Me
-📩 Email: realmcdavid1@gmail.com
-
-Let’s build something amazing together! 🚀
+📩 Email: realmcdavid1@gmail.com  
+Let’s build something meaningful and future-ready. 🚀

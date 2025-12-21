@@ -27,4 +27,4 @@ Beyond full-stack development, I’m actively exploring *AI integration, automat
 📫 Let’s Connect
 
 📩 Email: realmcdavid1@gmail.com  
-Let’s build something meaningful and future-ready. 🚀
+Let’s build something meaningful and future-ready 🚀

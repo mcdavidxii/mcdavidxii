@@ -4,7 +4,6 @@
 
 🔍 About Me
 
-
 I’m a passionate and solutions-driven software developer with experience building *web, mobile, and desktop applications* across diverse industries. I specialize in designing *scalable, high-performance systems* using modern technologies and clean architecture principles.
 
 Beyond full-stack development, I’m actively exploring *AI integration, automation, and digital transformation*, especially in the education and enterprise space.
